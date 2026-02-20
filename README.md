@@ -30,5 +30,6 @@ A classic game against the computer. The user inputs their choice, and the compu
    java Guessing_Game
 
 2. **For Practical 2 (Rock, Paper, Scissors):**
+   ```bash
    javac Exercise_2_Rock_paper_Game.java
    java Exercise_2_Rock_paper_Game
